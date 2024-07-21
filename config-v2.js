@@ -1,4 +1,4 @@
-const GITHUB_AUTH_TOKEN = "null"
+const GITHUB_AUTH_TOKEN = "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"
 const BOT_NUMBER = "18768375254"
 
 
